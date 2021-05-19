@@ -15,6 +15,7 @@ $ cd EE551
 $ python3 -m venv venv
 $ source ./venv/bin/activate
 $ pip install tweepy
+$ pip install requests
 $ pip freeze > requirements.txt
 ```
 ## 3. Now that the virtual environment is running, run the command
