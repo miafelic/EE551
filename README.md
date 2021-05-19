@@ -1,4 +1,4 @@
-# EE551 Final Project: TweeterBot 
+s# EE551 Final Project: TweeterBot 
 
 We created a Twitter bot (@TweeterBot2021) by using Tweepy and OpenWeatherMap API
 
