@@ -22,4 +22,4 @@ $ pip freeze > requirements.txt
 $ python tweet.py
 ```
 ## Demo
-![alt text](https://imgur.com/a/xkSV4Xx)
+![Demo](https://i.imgur.com/WGqOM16.jpeg)
