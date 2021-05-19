@@ -53,6 +53,6 @@ def postTweet():
    now = datetime.now()
    dt_string = now.strftime("[%b-%d-%Y %H:%M:%S]")
    api.update_status(dt_string + endl + endl +
-     "Weather forecast for " + newJerseyCity + endl + f"\U0001F321 Temperature: {temperature}°F (H: {temp_max}°F L:{temp_min}°F)" + endl + f"\U0001F4A7 Humidity: {humidity}%" + endl + emoji + f" Report: {report[0]['description']}")
+     "Weather forecast for " + newJerseyCity + endl + f"\U0001F321 Temperature: {temperature}°F (H: {temp_max}°F L: {temp_min}°F)" + endl + f"\U0001F4A7 Humidity: {humidity}%" + endl + emoji + f" Report: {report[0]['description']}")
 
 postTweet()
