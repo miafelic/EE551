@@ -6,7 +6,7 @@ We created a Twitter bot (@TweeterBot2021) by using Tweepy and OpenWeatherMap AP
 ## Notes before starting
 - You will need to generate your own API keys
   - Instructions for Twitter API: https://realpython.com/twitter-bot-python-tweepy/#using-tweepy
-  - Instructions for OpemWeatherMap API: https://openweathermap.org/api
+  - Instructions for OpenWeatherMap API: https://openweathermap.org/api
 - Once you get your API keys, replace them in the APIkeys.py file accordingly
 ## 1. Clone this repository
 ## 2. Paste the following commands to the terminal (We used Linux)
